@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1004-ba-091-validate-stellar-public-keys-at-api",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1004-ba-091-validate-stellar-public-keys-at-api": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1004-ba-091-validate-stellar-public-keys-at-api",
+    "origin"
+  ]
+}
